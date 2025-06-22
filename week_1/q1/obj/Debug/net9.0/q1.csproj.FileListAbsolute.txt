@@ -1,0 +1,14 @@
+C:\Users\VRTX\documents\dnFSE\q1\bin\Debug\net9.0\q1.exe
+C:\Users\VRTX\documents\dnFSE\q1\bin\Debug\net9.0\q1.deps.json
+C:\Users\VRTX\documents\dnFSE\q1\bin\Debug\net9.0\q1.runtimeconfig.json
+C:\Users\VRTX\documents\dnFSE\q1\bin\Debug\net9.0\q1.dll
+C:\Users\VRTX\documents\dnFSE\q1\bin\Debug\net9.0\q1.pdb
+C:\Users\VRTX\documents\dnFSE\q1\obj\Debug\net9.0\q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VRTX\documents\dnFSE\q1\obj\Debug\net9.0\q1.AssemblyInfoInputs.cache
+C:\Users\VRTX\documents\dnFSE\q1\obj\Debug\net9.0\q1.AssemblyInfo.cs
+C:\Users\VRTX\documents\dnFSE\q1\obj\Debug\net9.0\q1.csproj.CoreCompileInputs.cache
+C:\Users\VRTX\documents\dnFSE\q1\obj\Debug\net9.0\q1.dll
+C:\Users\VRTX\documents\dnFSE\q1\obj\Debug\net9.0\refint\q1.dll
+C:\Users\VRTX\documents\dnFSE\q1\obj\Debug\net9.0\q1.pdb
+C:\Users\VRTX\documents\dnFSE\q1\obj\Debug\net9.0\q1.genruntimeconfig.cache
+C:\Users\VRTX\documents\dnFSE\q1\obj\Debug\net9.0\ref\q1.dll
